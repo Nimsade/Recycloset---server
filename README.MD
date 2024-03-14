@@ -42,8 +42,7 @@ Detailed API documentation is provided at the following link, outlining the avai
 To get the application up and running, ensure Node.js and npm are installed. Then, execute the following commands:
 
 ```sh
-git clone [repository-link]
-cd [project-directory]
+
 npm install
 npm start
 Ensure to create a .env file in the root directory with the necessary environment variables as per the .env-example.txt.
